@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A decree of Starre-Chamber: concerning inmates, and diuided tenements in London or three miles about: made the fourteenth of February last past. 1636.</title>
+            <author>England and Wales. Court of Star Chamber.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21450</idno>
+            <idno type="STC">STC 7756</idno>
+            <idno type="STC">ESTC S114367</idno>
+            <idno type="EEBO-CITATION">99849593</idno>
+            <idno type="PROQUEST">99849593</idno>
+            <idno type="VID">14750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 785:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A decree of Starre-Chamber: concerning inmates, and diuided tenements in London or three miles about: made the fourteenth of February last past. 1636.</title>
+                  <author>England and Wales. Court of Star Chamber.</author>
+               </titleStmt>
+               <extent>[46] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most Excellent Maiesty: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Restricting their number and requiring provision for the poor--STC.</note>
+                  <note>Last leaf probably blank, lacking--Folger catalogue.</note>
+                  <note>Signatures: A-F⁴ (-F4, blank?).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tenement houses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14750:1" rendition="simple:additions"/>
+            <p>A DECREE OF Starre-Chamber: Concerning Inmates, and diui<g ref="char:EOLhyphen"/>ded Tenements, in London or three miles about:</p>
+            <p>Made the fourteenth of February laſt paſt. 1636.</p>
+            <p>Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſty: And by the Aſſignes of <hi>Iohn Bill.</hi> 1636.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:14750:2"/>
+            <p>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and lion and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:14750:2" rendition="simple:additions"/>
+            <opener>
+               <dateline>In Camera Stellata coram Con<g ref="char:EOLhyphen"/>cilio ibidem, <date>decimo quarto die Fe<g ref="char:EOLhyphen"/>bruarij, Anno duodecimo CAROLI Regis.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His day was produced in Court a Decree drawne and penned, by the aduice of the Right Honourable the Lord <hi>Kee<g ref="char:EOLhyphen"/>per</hi> the Lord <hi>Priuy Seale,</hi> the two Lords <hi>chiefe Iuſtices,</hi> the Lord <hi>chiefe Baron,</hi> and the reſt of the Judges of His <hi>MAIESTIES</hi> Courts of <hi>Kings Bench, Com<g ref="char:EOLhyphen"/>mon Pleas,</hi> and <hi>Court of Ex<g ref="char:EOLhyphen"/>chequer,</hi> touching Jnmates, and diuided Tenements, and the ſame being read in Court, and well liked
+<pb facs="tcp:14750:3"/>of by all the Honourable preſence there ſitting, the ſaid Decree was directed and ordered to be here re<g ref="char:EOLhyphen"/>corded: and to the end the ſame may be publike, and that euery one whom it may concerne may take notice thereof; The Court hath now alſo ordered, that the ſaid Decree ſhall be ſpeedily Printed, and that the ſame he ſent to His <hi>MAIESTIES</hi> Printer for that purpoſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="decree">
+            <pb facs="tcp:14750:3" rendition="simple:additions"/>
+            <opener>
+               <dateline>In Camera Stellata coram Con<g ref="char:EOLhyphen"/>cilio ibidem, <date>decimo quarto die <hi>Februarij, Anno duodecimo</hi> CAROLI Regis.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a Decree made in this Ho<g ref="char:EOLhyphen"/>nourable Court, the twentieth day of O<g ref="char:EOLhyphen"/>ctober, in the four<g ref="char:EOLhyphen"/>tieth yeare of the Reigne of our late Souereigne Lady Queene ELIZABETH, vpon the infor<g ref="char:EOLhyphen"/>mation of Her Maieſties then Attourney general, againſt <hi>Rice
+<pb n="2" facs="tcp:14750:4" rendition="simple:additions"/>Griffith,</hi> and <hi>Iohn Scrips,</hi> (who contrary to the Proclamation publiſhed and ſet out the ſe<g ref="char:EOLhyphen"/>uenth day of Iuly, in the two and twentieth yeare of Her Ma<g ref="char:EOLhyphen"/>ieſties Reigne, had erected and built Tenements, and diuided them into ſeuerall Roomes, wherein diuers poore Tenants dwelt, that liued and were main<g ref="char:EOLhyphen"/>tained by the reliefe of the Pa<g ref="char:EOLhyphen"/>riſh, and begged abroad in other place) the ſaid offenders were ſentenced. And as for the pul<g ref="char:EOLhyphen"/>ling down or reforming of any Houſe new built or diuided contrary to the ſaid Proclamati<g ref="char:EOLhyphen"/>on within the Citie of London,
+<pb facs="tcp:14750:4" rendition="simple:additions"/>or the compaſſe of three miles thereof, (in which any poore or impotent perſons then did, or thereafter ſhould dwell or abide) for that if the ſame houſes ſhould bee pulled downe, deſtroyed or reformed, other habitations muſt bee prouided for them at the charge of the Pariſhes where they were or ſhould be dwelling; The Court did thinke fit to for<g ref="char:EOLhyphen"/>beare and reſpite the doing ther<g ref="char:EOLhyphen"/>of, but did order and adiudge, that all and euery ſuch poore and impotent perſons, which did or ſhould dwell and inhabite in any new buildings or diuided tene<g ref="char:EOLhyphen"/>ments, erected and diuided con<g ref="char:EOLhyphen"/>trary
+<pb facs="tcp:14750:5" rendition="simple:additions"/>to the effect and intent of her Highnes ſaid Proclamation, and were or ſhould in any wiſe be driuen to liue by begging, or to bee releeued by almes within the Citie of London, or any o<g ref="char:EOLhyphen"/>ther place within the compaſſe of three miles thereof, ſhould, and might, during the time of his or their life or liues, abide and dwell in the ſame, without giuing or paying any manner of rent, ſer<g ref="char:EOLhyphen"/>vice, or other recompence vnto the Landlords or any other, for, or in reſpect of the ſame, and not bee thence remooued, vnleſſe they ſhould after become able to liue of themſelues; and that the
+<pb facs="tcp:14750:5" rendition="simple:additions"/>ſaid Landlord, Owner, or any other that claimed intereſt, to, or for any rent or rents, growing, ariſing, or payable for any of the ſaid new buildings, or diuided Tenements ſo inhabited, or to be inhabited with poore people as aforeſaid, ſhould be enioyned, and vpon that ſentence and De<g ref="char:EOLhyphen"/>cree take ſufficient notice and warning, that he or they ſhould not implead, incumber, diſquiet, or moleſt any of the ſaid poore Tenants, for any Rents, Coue<g ref="char:EOLhyphen"/>nants, Conditions, Promiſes, or Agreements, touching, or in any wiſe concerning the ſaid Tene<g ref="char:EOLhyphen"/>ments, new buildings, or any of
+<pb facs="tcp:14750:6" rendition="simple:additions"/>them, for the leuying, or reco<g ref="char:EOLhyphen"/>uering of any rent, ſeruice, or other conſideration in liew of any rent.</p>
+            <p>And for that the new build<g ref="char:EOLhyphen"/>ings and diuiſions of ſundry hou<g ref="char:EOLhyphen"/>ſes within the Citie of London and three miles compaſſe there<g ref="char:EOLhyphen"/>of, contrary to the tenour of the ſaid Proclamation, had beene, and was occaſion of great char<g ref="char:EOLhyphen"/>ges vnto the Pariſhes of the ſaid Citie and Precinct aforeſaid, whereby the ſaid Pariſhes were ſtill ouermuch burdened with poore and impotent perfons; It was therefore ordered and de<g ref="char:EOLhyphen"/>creed, that all ſuch Landlords,
+<pb facs="tcp:14750:6" rendition="simple:additions"/>or Owners of ſuch buildings or diuiſions, whereſoeuer they ſhould dwell, ſhould contribute and giue ſuch like ratable and reaſonable allowance with the ſaid Pariſhioners, where ſuch buildings and diuiſions were, to<g ref="char:EOLhyphen"/>wards the finding and maintain<g ref="char:EOLhyphen"/>ing of the poore of the Pariſh, in which ſuch buildings were, or ſhould bee erected or diuided, contrary to the ſaid Proclamati<g ref="char:EOLhyphen"/>on, as ſhould bee apportioned and allotted him of them to pay, if hee or they were dwelling in the ſaid pariſh.</p>
+            <p>And it was further ordered and decreed, that after the death
+<pb facs="tcp:14750:7" rendition="simple:additions"/>or departure of ſuch poore peo<g ref="char:EOLhyphen"/>ple, as did, or ſhould inhabit the ſame houſes or diuided Tene<g ref="char:EOLhyphen"/>ments aforeſaid, the houſes there<g ref="char:EOLhyphen"/>by being become voide; Then the Lord Maior, and Iuſtices of Peace neere unto the Citie ad<g ref="char:EOLhyphen"/>ioyning, thereby were comman<g ref="char:EOLhyphen"/>ded to reform the ſaid diuided Tenements, and to proſtrate, pull downe, and deface the ſaid new buildings in ſuch ſort as the ſame ſhould be no more fit for habita<g ref="char:EOLhyphen"/>tion, and the timber and wood thereof to be conuerted and diſ<g ref="char:EOLhyphen"/>poſed in ſuch manner, as by the ſaid Proclamation is required, as alſo to take order in all other the
+<pb facs="tcp:14750:7" rendition="simple:additions"/>premiſes, That the ſaid Decree ſhould bee duely obſerued and kept, and if any ſhould be obſti<g ref="char:EOLhyphen"/>nate, then to binde ſuch Land<g ref="char:EOLhyphen"/>lords as ſhould obſtinately and wilfully diſobey the ſaid Decree, to appeare in this Honourable Court, to anſwer their con<g ref="char:EOLhyphen"/>tempt therein.</p>
+            <p>And whereas the nine and twentieth of Nouember, in the ſeuenth yeare of the Reigne of King IAMES of bleſſed memo<g ref="char:EOLhyphen"/>rie, this honourable Court did decree and order; That the ſaid Decree taken the twentieth day of October in the ſaid fourtieth yeare of the ſaid late Queene,
+<pb facs="tcp:14750:8" rendition="simple:additions"/>ſhould be preſently, and from time to time thereafter more ſe<g ref="char:EOLhyphen"/>uerely looked into, and put inex<g ref="char:EOLhyphen"/>ecution; And his Maieſties lear<g ref="char:EOLhyphen"/>ned Counſel, and alſo the Lord Maior and Aldermen of Lon<g ref="char:EOLhyphen"/>don, together with all Iuſtices of Peace, and other his Maieſties Officers whatſoeuer, which the ſame may any way concerne, were ſtraitly charged and requi<g ref="char:EOLhyphen"/>red, that they, and euery of them, ſhould from time to time there<g ref="char:EOLhyphen"/>after diligently and ſtrictly cauſe, and ſee the ſaid Decree to be in all points duely obſer<g ref="char:EOLhyphen"/>ued and put in execution, and termely to make certificate to
+<pb facs="tcp:14750:8" rendition="simple:additions"/>this honourable Court of their proceedings therein, and of ſuch perſons as they ſhould finde to offend in that behalfe, whereup<g ref="char:EOLhyphen"/>on on this Court did purpoſe to proceed againſt them for their contempts with very ſeuere pu<g ref="char:EOLhyphen"/>niſhment. Since which time ſundry other Proclamations, as well in the time of the ſaid late King IAMES, as of His Maie<g ref="char:EOLhyphen"/>ſtie that now is, haue been pub<g ref="char:EOLhyphen"/>liſhed and ſet out againſt the ſaid offences, and many exemplarie ſentences in this honourable Court haue been pronounced againſt offenders in that be<g ref="char:EOLhyphen"/>halfe, and many houſes and
+<pb facs="tcp:14750:9" rendition="simple:additions"/>buildings erected againſt the ſaid Proclamation haue beene demoliſhed and pulled down. And yet neuertheleſſe, ſuch hath been the diſobedience and contempt of great multitudes, aiming onely at their own gain, whatſoeuer perill or inconueni<g ref="char:EOLhyphen"/>ence might happen to the Pub<g ref="char:EOLhyphen"/>lique, that the new buildings and diuiding of Tenements haue dayly more and more increaſed, and ſuch numbers of poore diſ<g ref="char:EOLhyphen"/>ſolute and lewd perſons are ther<g ref="char:EOLhyphen"/>in harboured, that in many pa<g ref="char:EOLhyphen"/>riſhes within the limits and pre<g ref="char:EOLhyphen"/>cincts aforeſaid, there are farre more houſholds and families
+<pb facs="tcp:14750:9" rendition="simple:additions"/>that liue by begging, and other vnlawfull wayes, and by reliefe and almes of the pariſh, then are in the ſame pariſh to liue by their own meanes and vocation; So as the burthen is growen ſo heauy to many of the ſaid pa<g ref="char:EOLhyphen"/>riſhes, that the wealthy are not able to relieue the poore in time of health, much leſſe in time of ſickneſſe or Infection, as hath ap<g ref="char:EOLhyphen"/>peared in the late viſitation of the plague, wherein ſuch multi<g ref="char:EOLhyphen"/>tudes of thoſe poore &amp; miſerable houſholds haue beene infected, and their neceſsities growne to that extremity, that the officers of the pariſh haue not been able to
+<pb facs="tcp:14750:10" rendition="simple:additions"/>keepe them within their houſes, but the ſicke and infected haue gone among the whole, and great ſwarmes of indigent and poore people, and many of them infected with the ſickneſſe, haue, maugre all authoritie and com<g ref="char:EOLhyphen"/>mand of the officers, flocked in troupes in the principall ſtreets of the citie and ſuburbs of London, whereby the Infection of the plague hath been much the more diſperſed, not only in the ſaid ci<g ref="char:EOLhyphen"/>tie and places adiacent; but into many other parts of the king<g ref="char:EOLhyphen"/>dome: Beſides, it is apparantly found out, that thoſe multitudes of new buildings and diuided
+<pb facs="tcp:14750:10" rendition="simple:additions"/>Tenements, doe draw into the ſaid citie, and parts adioyning, from all parts of the kingdome, great numbers (idle, looſe and diſſolute perſons) who are har<g ref="char:EOLhyphen"/>boured in thoſe obſcure and meane houſes, and hauing no lawfull trade or vocation, doe begge, and alſo commit Pilferies, Coſenages, and infinite diſor<g ref="char:EOLhyphen"/>ders to enable them to pay their Landlords rents: And many of the Owners and Landlords or ſuch Tenements, of purpoſe for raiſing of exceſsiue rents to themſelues out of their houſes and Tenements, doe let, and par<g ref="char:EOLhyphen"/>cell them out to ſuch idle, looſe,
+<pb facs="tcp:14750:11" rendition="simple:additions"/> and ill diſpoſed perſons, though they know them to bee of that condition, in regard they will give greater rents then a poore labouring man is able to doe and vſe all ſhifts and vnlawfull meanes to pay it. All which enormities and many more, ha<g ref="char:EOLhyphen"/>uing, vpon Suruey lately taken, more euidently appeared then in former time.</p>
+            <p>
+               <hi>This Court</hi> for reformation thereof, doth now againe order and decree, that the ſaid ſeue<g ref="char:EOLhyphen"/>rall Decrees made in the fortieth yeere of the ſaid late Queene ELIZABETH, and the ſea<g ref="char:EOLhyphen"/>uenth yeare of the ſaid late King
+<pb facs="tcp:14750:11" rendition="simple:additions"/> IAMES, with ſuch additions and alterations as hereafter en<g ref="char:EOLhyphen"/>ſue, be ſeuerely and ſtrictly ex<g ref="char:EOLhyphen"/>ecuted. And foraſmuch as it ap<g ref="char:EOLhyphen"/>peareth not onely by the ſaid Decrees, but by the generall re<g ref="char:EOLhyphen"/>ſolution of all the Reuerend Iudges of the Realme (whom His Maieſtie out of His great care of the Publique, hath lately commanded to aſſemble) that the erecting of new buildings within the limits before mentio<g ref="char:EOLhyphen"/>ned, and the diuiding of greater houſes into pety tenements and habitations, and peſtering and filling the ſame with Inmates, or with Inhabitants of ſuch euill
+<pb facs="tcp:14750:12" rendition="simple:additions"/>condition as aforeſaid, is a moſt vnſufferable annoyance againſt the Publique, and conſequent<g ref="char:EOLhyphen"/>ly is againſt the Common law of the Realme; And that not on<g ref="char:EOLhyphen"/>ly the ſaid euill conditioned In<g ref="char:EOLhyphen"/>habitants, but ſuch by whom, or by whoſe meanes they are pla<g ref="char:EOLhyphen"/>ced there, or who receiue the rents of ſuch Inhabitants, are guiltie of a Common Nu<g ref="char:EOLhyphen"/>ſance; and alſo that ſuch Land<g ref="char:EOLhyphen"/>lords or Owners of ſuch houſes or tenements, which haue or do receiue the rents of ſuch poore Inhabitants, may by law be tax<g ref="char:EOLhyphen"/>ed towards the reliefe of the poore of the ſaid Pariſh, though
+<pb facs="tcp:14750:12" rendition="simple:additions"/>they dwell out of the pariſh. This Court holdeth it meet, that ſince the offendors haue not ta<g ref="char:EOLhyphen"/>ken warning by two ſuch ſo<g ref="char:EOLhyphen"/>lemne Decrees made in this Court, they ſhould now be pro<g ref="char:EOLhyphen"/>ceeded againſt with more rigor and ſeuerity, and not bee ſuffe<g ref="char:EOLhyphen"/>red any longer to make vnrea<g ref="char:EOLhyphen"/>ſonable gain and profit to them<g ref="char:EOLhyphen"/>ſelues by ſo great a wrong and generall grieuance. And there<g ref="char:EOLhyphen"/>fore this Court doth order and decree, aſwell in execution of the ſaid former Decrees, and purſu<g ref="char:EOLhyphen"/>ance of the ſaid reſolution of the Iudges, that where any houſes formerly built within the limits
+<pb facs="tcp:14750:13" rendition="simple:additions"/>aforeſaid haue been diuided in<g ref="char:EOLhyphen"/>to ſeuerall habitations or dwel<g ref="char:EOLhyphen"/>lings, within the ſpace of ſeuen yeares now laſt paſt, contrary to any former Proclamation or Decree in that behalfe, the ſame within the ſpace of one yeare next enſuing ſhall be reſtored in<g ref="char:EOLhyphen"/>to their former eſtate, ſo as there ſhall be no more habitations or dwellings then were before the ſaid diuiſions. And that all and euery perſon and perſons eſtated or intereſſed in the ſame, either of inheritance or of any leſſer eſtate, ſhall before the Feaſt of the Aſcenſion of our Lord now next enſuing, vpon order or
+<pb facs="tcp:14750:13" rendition="simple:additions"/>command of the Lord Maior, or ſome Iuſtice of peace of the Citie of London, or of the Al<g ref="char:EOLhyphen"/>derman of the Ward, or his De<g ref="char:EOLhyphen"/>putie, (if the ſaid Tenements be within the ſaid City or the liber<g ref="char:EOLhyphen"/>ties thereof) or of ſome Iuſtice of peace neere to the place (if the ſaid houſes be out of the liberties of the Citie) enter into bond of a competent penalty, to obſerue and performe this order in that behalfe; the ſaid Bond to be ta<g ref="char:EOLhyphen"/>ken in the names of ſome honeſt and ſufficient perſons of the pa<g ref="char:EOLhyphen"/>riſh where ſuch Tenements are, to the vſe of the ſaid pariſh.</p>
+            <p>And it is further ordered and
+<pb facs="tcp:14750:14" rendition="simple:additions"/>decreed, that where any houſes, within the limits aforeſaid, haue been erected or built within the ſaid ſpace of ſeven yeares, or be<g ref="char:EOLhyphen"/>ing formerly erected or built, haue within the ſaid ſpace of ſe<g ref="char:EOLhyphen"/>uen yeares beene diuided, and are imployed for the habitation of indigent and poore people, chargeable to the Pariſh wherin the ſaid houſes are, that in every ſuch Caſe, all and every perſon and perſons eſtated, or intereſ<g ref="char:EOLhyphen"/>ſed in the ſaid houſes or Tene<g ref="char:EOLhyphen"/>ments of eſtate of inheritance, or any leſſer eſtate, and which haue receiued the rents, iſſues, and profits thereof, of, and from
+<pb facs="tcp:14750:14" rendition="simple:additions"/>ſuch poore Inhabitants, ſhall by vertue of this Order and De<g ref="char:EOLhyphen"/>cree, be bound each of them re<g ref="char:EOLhyphen"/>ſpectiuely for their time, to re<g ref="char:EOLhyphen"/>ſtore and repay to the Ouer<g ref="char:EOLhyphen"/>ſeers of the poore of the Pariſh, wherein the ſaid houſes be, all ſuch ſummes of money as haue beene disburſed by the Pariſh, for the reliefe of the Inhabitants in the ſaid houſes in ſickneſſe or health, or for any other charge, wherewith ſuch Pariſhes haue been burthened, ſince the feaſt of <hi>Pentecoſt</hi> laſt paſt, by reaſon of ſuch Inhabitants; And ſhall alſo before the feaſt of the <hi>Aſcen<g ref="char:EOLhyphen"/>ſion</hi> of our Lord now next en<g ref="char:EOLhyphen"/>ſuing,
+<pb facs="tcp:14750:15" rendition="simple:additions"/>vpon order or command of the Lord Maior or ſome Iu<g ref="char:EOLhyphen"/>ſtice of Peace of the Citie, or the Alderman of the ward, or his Deputie (if the Tenements bee within the Citie, or Liberties thereof) or of ſome Iuſtice of Peace neere the place (if the ſaid houſes bee out of the Liberties of the Citie) enter into bond of a competent penaltie, to bee ta<g ref="char:EOLhyphen"/>ken in the name of ſome honeſt and ſufficient men of the pariſh, where ſuch Tenements bee, to the vſe of the ſaid pariſh; to ſaue and keepe harmeleſſe the pari<g ref="char:EOLhyphen"/>ſhes wherein the ſaid houſes be, for, &amp; during ſuch their ſeuerall
+<pb facs="tcp:14750:15" rendition="simple:additions"/>eſtates or intereſts, reſpectiuely, from all charges and expences, any way touching or concern<g ref="char:EOLhyphen"/>ing the maintaining, keeping, of releeuing of the Inhabitants, which by, or vnder them, or any of them haue beene, of ſhall be placed in the ſaid houſes, habi<g ref="char:EOLhyphen"/>tations, or dwellings.</p>
+            <p>And that where any Inmates within the ſaid ſpace of ſeuen yeares laſt paſt haue beene pla<g ref="char:EOLhyphen"/>ced in any houſes or tenements, within the limits aforeſaid, and are there continued, the ſame Inmates within the ſpace of one yeare next enſuing, ſhall be re<g ref="char:EOLhyphen"/>mooued by the perſons intereſ<g ref="char:EOLhyphen"/>ſed
+<pb facs="tcp:14750:16" rendition="simple:additions"/>and eſtated in the ſaid houſes or Tenements, hauing power by reaſon of their eſtates, to re<g ref="char:EOLhyphen"/>mooue them ſo, as by the end of one yeare now next enſuing, there ſhall be no more families then one abiding in any of the ſaid houſes.</p>
+            <p>And that all and euery ſuch perſon and perſons, as are, or ſhall be eſtated, or intereſſed in the ſaid houſes, as aforeſaid, and to whom the rents, iſſues, or pro<g ref="char:EOLhyphen"/>fits of the ſaid houſes, are, or ſhall be payable, or anſwerable, ſhall vpon order or command of the Lord Maior, or ſome Iuſtice of Peace of the Citie, or the Alder<g ref="char:EOLhyphen"/>man
+<pb facs="tcp:14750:16" rendition="simple:additions"/>of the ward, or his Depu<g ref="char:EOLhyphen"/>tie (if the ſaid Tenements bee within the Citie of London, or Liberties thereof) or of ſome Iuſtice of Peace neere the place (if the ſaid houſes be out of the Liberties) enter into bond of a competent penaltie (with ſuffi<g ref="char:EOLhyphen"/>cient ſureties, if it ſhall be requi<g ref="char:EOLhyphen"/>red) to performe this part of this preſent Order and Decree; ſuch bond to bee taken in the name of ſome honeſt perſon or per<g ref="char:EOLhyphen"/>ſons for the vſe of the pariſh.</p>
+            <p>And it is further ordered and decreed, that all ſuch per<g ref="char:EOLhyphen"/>ſons, as are, or ſhall be eſtated, or intereſſed in any houſes diui<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:14750:17" rendition="simple:additions"/>aboue ſeuen yeares laſt paſt, Contrary to any Procla<g ref="char:EOLhyphen"/>mation or Decree of this Ho<g ref="char:EOLhyphen"/>nourable Court in that behalfe, of an eſtate of inheritance, or any leſſer eſtate, which haue receiued, or hereafter ſhall re<g ref="char:EOLhyphen"/>ceiue the rents, or profits there<g ref="char:EOLhyphen"/>of from the inhabitants, ſhall at their perill take a courſe, if they haue power by reaſon of their eſtates ſo to doe, that the ſame houſes bee reſtored to their former condition and number of houſes, and no more then were before the diuiding thereof, wit<g ref="char:EOLhyphen"/>in the ſpace of three yeares now next enſuing; And alſo that all
+<pb facs="tcp:14750:17" rendition="simple:additions"/>ſuch houſes which haue beene either built or diuided, contrary to any ſuch Proclamation or Decree as aforeſaid, within the limits aforeſaid, before, or aboue ſeuen yeares laſt paſt, and are imployed for the habitation of in<g ref="char:EOLhyphen"/>digent and poore people, who are chargeable to the pariſh, where thoſe houſes are; That in euery ſuch Caſe all, and euery perſon and perſons eſtated or intereſſed in the ſaid houſes or tenements of eſtate of Inheritance, or any leſſer eſtate, and hauing recei<g ref="char:EOLhyphen"/>ued the rents, iſſues and pro<g ref="char:EOLhyphen"/>fits thereof, of, and from the in<g ref="char:EOLhyphen"/>habitants, ſhall by vertue of
+<pb facs="tcp:14750:18" rendition="simple:additions"/>this Order and Decree, euery one for their ſeuerall time, bee bound to reſtore and repay to the ouerſeers of the poore of the pariſh wherein the ſaid houſes be, all ſuch ſummes of money as haue been disburſed by the pariſh, for the reliefe of the In<g ref="char:EOLhyphen"/>habitants of the ſaid houſes in ſickneſſe or health, or for any other charge wherewith ſuch pariſhes haue been burthened, ſince the Feaſt of <hi>Pentecoſt</hi> laſt paſt, by reaſon of ſuch Inhabi<g ref="char:EOLhyphen"/>tants, and ſhall alſo before the ſaid Feaſt of the <hi>Aſcenſion</hi> of our Lord God next enſuing, vpon order or command of the
+<pb facs="tcp:14750:18" rendition="simple:additions"/>Lord Maior, or ſome Iuſtice of peace of the ſaid Citie, or the Alderman of the Ward, or his Deputie (if the ſaid Tene<g ref="char:EOLhyphen"/>nements be within the Citie of London, or liberties thereof) or of ſome Iuſtice of peace neer the place (if the ſaid houſes be out of the liberties) enter into bond of a competent penaltie, with ſuffi<g ref="char:EOLhyphen"/>cient ſureties, if it ſhall be re<g ref="char:EOLhyphen"/>quired, to ſaue and keepe harme<g ref="char:EOLhyphen"/>leſſe the pariſh from all charges and expences, any way touch<g ref="char:EOLhyphen"/>ing or concerning the maintain<g ref="char:EOLhyphen"/>ing, keeping, or relieuing the Inhabitants, which by, or vnder them, or any of them haue been
+<pb facs="tcp:14750:19" rendition="simple:additions"/>or ſhal be placed in the ſaid hou<g ref="char:EOLhyphen"/>ſes, habitations or dwellings; The ſaid Bond to bee taken in the name of ſome honeſt perſon or perſons for the vſe of the pa<g ref="char:EOLhyphen"/>riſh.</p>
+            <p>And it is further ordered, and decreed, that beſides all the paiments, charges and burthens aforeſaid, to bee paide, done or performed by the ſaid Land<g ref="char:EOLhyphen"/>lords or Owners, in eaſe of the Pariſh, for, or in reſpect of their owne Tenants, They, and eue<g ref="char:EOLhyphen"/>ry of them, ſhall contribute and giue ſuch like ratable and rea<g ref="char:EOLhyphen"/>ſonable allowance with the ſaid Pariſhioners, where ſuch build<g ref="char:EOLhyphen"/>ings
+<pb facs="tcp:14750:19" rendition="simple:additions"/>or diuiſions are towards the finding and maintaining of the reſt of the poore of the ſaid pa<g ref="char:EOLhyphen"/>riſh, as ſhould bee apportioned, taxed, aſſeſſed, or allotted for him, or them to pay, if he, or they were dwelling in the ſaid pariſh, and were not charged towards the reliefe or mainte<g ref="char:EOLhyphen"/>nance of his, or their owne vn<g ref="char:EOLhyphen"/>der tenants, as is aforeſaid.</p>
+            <p>And this Court doth further Order and Decree, that if any perſon or perſons ſhall hereaf<g ref="char:EOLhyphen"/>ter new build, diuide any Te<g ref="char:EOLhyphen"/>nements within the limits afore<g ref="char:EOLhyphen"/>ſaid, contrary to this Decree, or the ſaid former Decrees, made in
+<pb facs="tcp:14750:20" rendition="simple:additions"/>this Court, or the ſeuerall Pro<g ref="char:EOLhyphen"/>clamations heretofore publiſhed in that behalfe, or ſhall place any ſuch poore, or indigent people in any ſuch Tenements hereto<g ref="char:EOLhyphen"/>fore built or diuided, or hereaf<g ref="char:EOLhyphen"/>ter to be built or diuided, or re<g ref="char:EOLhyphen"/>ceiue any Inmates into the ſame, that then the perſon, or perſons ſo offending ſhall bee by order or command of the Lord Maior, or ſome Iuſtice of peace of the ſaid Citie of London, or the Alderman of the Ward, or his Deputy, (if the Tenements ſhall happen to be within the ſaid Ci<g ref="char:EOLhyphen"/>tie, or the liberties thereof) or of ſome Iuſtice of peace neere
+<pb facs="tcp:14750:20" rendition="simple:additions"/>the place (if the Tenements ſhall bee without the liberties) enter into bond of a competent penaltie, with ſureties to ſome honeſt perſon or perſons, to the vſe of the pariſh in which the Tenements ſhall be, within one moneth next after the date of ſuch Bond, to pull downe ſuch new erected Tenements, or to reforme or reſtore ſuch diuided Tenements to their former con<g ref="char:EOLhyphen"/>dition, or to remoue ſuch indi<g ref="char:EOLhyphen"/>gent people and Inmates placed therein, as the caſe ſhall happen to bee. And that all and eue<g ref="char:EOLhyphen"/>ry perſon and perſons, that ſhall hereafter receiue any Rents, Iſ<g ref="char:EOLhyphen"/>ſues,
+<pb facs="tcp:14750:21" rendition="simple:additions"/>or profits, of or from any ſuch poore or indigent people inhabiting in any ſuch Tene<g ref="char:EOLhyphen"/>ment heretofore built or diui<g ref="char:EOLhyphen"/>ded, or hereafter to bee built or diuided, ſhall beare, and pay all charges and expences which the Pariſh ſhall ſuſtaine or bee put to, for, or by reaſon of any ſuch poore and indigent people inhabiting within the Pariſh, and ſhall likewiſe bee rated and aſſeſſed to pay, and are hereby alſo ordered and decreed to pay their ratable ſhare and propor<g ref="char:EOLhyphen"/>tion, with the Inhabitants of the pariſh, for and towards the reliefe of the poore of ſuch
+<pb facs="tcp:14750:21" rendition="simple:additions"/>pariſh, as if the perſon or perſons receiving rents or profits from ſuch poore and indigent Inhabi<g ref="char:EOLhyphen"/>tants were dwelling within the pariſh.</p>
+            <p>And it is further ordered, that if any perſon or perſons, ſhall refuſe or make default to ſatiſ<g ref="char:EOLhyphen"/>fie or pay any the payments or charges aforeſaid, or to performe any part of this Order, That then proces of Attachment out of this Court ſhall be awarded againſt him or them, with ſuch further proces of contempt, and impriſonment, and are vſuall againſt the breakers or contem<g ref="char:EOLhyphen"/>ners of the Decrees or Orders of
+<pb facs="tcp:14750:22" rendition="simple:additions"/>this Court, and before his en<g ref="char:EOLhyphen"/>largement ſhall giue ſecuritie by bond as aforeſaid, and ſatiſfie and pay all ſuch ſummes of money, as hee or they ſhould or ought to pay, with double coſts to the proſecutor or proſecutors, for all the charges they ſhall ſuſtaine in proſecution of the ſaid contempts.</p>
+            <pb facs="tcp:14750:22" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
